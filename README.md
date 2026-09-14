@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/arshadkhan91/leet-code-/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/arshadkhan91/leet-code-/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/arshadkhan91/leet-code-/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/arshadkhan91/leet-code-/tree/master/1922-count-good-numbers) |
 ## String
 |  |
@@ -26,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arshadkhan91/leet-code-/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/arshadkhan91/leet-code-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/arshadkhan91/leet-code-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
