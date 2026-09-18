@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/arshadkhan91/leet-code-/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/arshadkhan91/leet-code-/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/arshadkhan91/leet-code-/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/arshadkhan91/leet-code-/tree/master/2235-add-two-integers) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/arshadkhan91/leet-code-/tree/master/0008-string-to-integer-atoi) |
+| [0412-fizz-buzz](https://github.com/arshadkhan91/leet-code-/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/arshadkhan91/leet-code-/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/arshadkhan91/leet-code-/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
