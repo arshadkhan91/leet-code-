@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arshadkhan91/leet-code-/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/arshadkhan91/leet-code-/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/arshadkhan91/leet-code-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/arshadkhan91/leet-code-/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -47,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/arshadkhan91/leet-code-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/arshadkhan91/leet-code-/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
