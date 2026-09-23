@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arshadkhan91/leet-code-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/arshadkhan91/leet-code-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/arshadkhan91/leet-code-/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/arshadkhan91/leet-code-/tree/master/1920-build-array-from-permutation) |
 | [2574-left-and-right-sum-differences](https://github.com/arshadkhan91/leet-code-/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/arshadkhan91/leet-code-/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/arshadkhan91/leet-code-/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
