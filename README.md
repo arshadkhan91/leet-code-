@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/arshadkhan91/leet-code-/tree/master/0007-reverse-integer) |
 | [0412-fizz-buzz](https://github.com/arshadkhan91/leet-code-/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/arshadkhan91/leet-code-/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/arshadkhan91/leet-code-/tree/master/1922-count-good-numbers) |
